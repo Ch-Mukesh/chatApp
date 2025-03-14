@@ -47,7 +47,7 @@ function SignUpPage() {
   
 
   return (
-    <div className="grid lg:grid-cols-2 min-h-screen p-10">
+    <div className="grid lg:grid-cols-2 min-h-screen p-3">
       <div className="flex flex-col justify-center items-center p-6 sm:p-12">
         <div className="w-full max-w-md space-y-8">
           <div className="text-center mb-8">
